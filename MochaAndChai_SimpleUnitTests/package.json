@@ -1,0 +1,19 @@
+{
+  "name": "mochaandchaitesting2",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "isOddOrEven.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha ./*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.3",
+    "mocha": "^10.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
