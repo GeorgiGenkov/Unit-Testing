@@ -1,3 +1,4 @@
+// The function is able to handle simple mathematical operations: add 5 to given number, subtract 10 from given number, return the sum of two given numbers
 export let mathEnforcer = {
     addFive: function (num) {
         if (typeof(num) !== 'number') {

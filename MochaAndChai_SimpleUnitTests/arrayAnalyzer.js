@@ -1,3 +1,4 @@
+// When an array of numbers is given - the function returns information about the array: min/max values within the array and the array length
 export function analyzeArray(arr) {
     if (!Array.isArray(arr) || arr.length === 0) {
         return undefined;
