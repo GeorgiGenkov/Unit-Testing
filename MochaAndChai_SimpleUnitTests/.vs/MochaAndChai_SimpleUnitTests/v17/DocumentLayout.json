@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\mathEnforcer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mathEnforcer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\isOddOrEven.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:isOddOrEven.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\charLookUp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:charLookUp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\arrayAnalyzer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:arrayAnalyzer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mathEnforcer.js",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\mathEnforcer.js",
+              "RelativeDocumentMoniker": "mathEnforcer.js",
+              "ToolTip": "D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\mathEnforcer.js",
+              "RelativeToolTip": "mathEnforcer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T17:38:06.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "isOddOrEven.js",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\isOddOrEven.js",
+              "RelativeDocumentMoniker": "isOddOrEven.js",
+              "ToolTip": "D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\isOddOrEven.js",
+              "RelativeToolTip": "isOddOrEven.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T17:37:47.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "charLookUp.js",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\charLookUp.js",
+              "RelativeDocumentMoniker": "charLookUp.js",
+              "ToolTip": "D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\charLookUp.js",
+              "RelativeToolTip": "charLookUp.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T17:35:57.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "arrayAnalyzer.js",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\arrayAnalyzer.js",
+              "RelativeDocumentMoniker": "arrayAnalyzer.js",
+              "ToolTip": "D:\\Projects\\GitHub\\Unit-Testing\\MochaAndChai_SimpleUnitTests\\arrayAnalyzer.js",
+              "RelativeToolTip": "arrayAnalyzer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T17:33:29.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
